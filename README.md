@@ -3,7 +3,7 @@
 
 <img src="./assets/banner.png" width="100%" />
 
-### YEX / XAE
+### YEXATIOUS
 
 **Video Editor · Motion Designer · 3D Artist**
 

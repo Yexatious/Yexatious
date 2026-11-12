@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Yexatious/Yexatious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./assets/banner.png" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### YEX / XAE
+
+**Video Editor · Motion Designer · 3D Artist**
+
+Creating cinematic visuals, experimental interfaces,
+and tools for creative workflows.
+
+![Blender](https://img.shields.io/badge/Blender-171717?style=for-the-badge)
+![After Effects](https://img.shields.io/badge/After_Effects-171717?style=for-the-badge)
+![Unreal](https://img.shields.io/badge/Unreal_Engine-171717?style=for-the-badge)
+
+</div>
+
+---
+
+### ⚡ Projects
+
+| Project | Description |
+|---|---|
+| FUI Forge | Custom interface toolkit for After Effects |
+| HUDSPACE | Spatial UI toolkit for Blender |
+| MNEME | Memory reconstruction and fragmentation tools |
+| Kombat Director | Cinematic camera tools for MK1 |
+
+---
+
+### ◈ About
+
+Focused on cinematic editing, procedural 3D,
+experimental motion design, and creative software.
+
